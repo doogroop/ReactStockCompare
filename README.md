@@ -1,3 +1,7 @@
+# Image of Application
+![imageOfApp](https://github.com/doogroop/ReactStockCompare/assets/74606129/e370abd0-0d88-4d6a-895b-2f3680687138)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
